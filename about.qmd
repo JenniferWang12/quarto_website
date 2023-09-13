@@ -1,0 +1,11 @@
+---
+title: "About Me"
+---
+
+About Me
+
+Here's a brief snapshot of my academic journey:
+
+Undergraduate: I studied at the University of Waterloo, majoring in Statistics and Combinatorics & Optimization. 
+
+Master's: I continued my education at the University of British Columbia (UBC), where I earned a Master of Data Science with a focus on Computational Linguistics.
