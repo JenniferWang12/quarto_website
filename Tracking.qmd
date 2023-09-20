@@ -1,16 +1,3 @@
----
-title: "About Me"
----
-
-About Me
-
-Here's a brief snapshot of my academic journey:
-
-Undergraduate: I studied at the University of Waterloo, majoring in Statistics and Combinatorics & Optimization. 
-
-Master's: I continued my education at the University of British Columbia (UBC), where I earned a Master of Data Science with a focus on Computational Linguistics.
-
-
 2023-09-18:  
 Today in 551, we learned just about everything related to continuous random variables. It's time to do integrals again. It's been four years, what are integrals? Abba abba!
 
@@ -20,8 +7,3 @@ This morning, I don't know why the main road leading to the bus station was bloc
 Today, I learned about numpy in Python, and I'm not very familiar with np.array, which is bothering me.  
 
 I had a statistics quiz today 551. There was a question that seemed to suggest using the geometric distribution, but I felt the question was not clear in its meaning, so I didn't answer it that way. The result might be I answered it incorrectly:(    
-
-
-
-
-
